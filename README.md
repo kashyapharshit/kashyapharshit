@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Harshit Kashyap 👋</h1>
+<h1 align="center">Hi there, I'm Harshit Kashyap </h1>
 
 <h3 align="center">
-🚀 B.Tech CS Undergraduate &nbsp;|&nbsp; AI & Data Science Intern @ C-DAC, Patna
+ B.Tech CS Undergraduate &nbsp;|&nbsp; Intern @ C-DAC, Patna
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Building AI systems that solve real-world problems — from smart waste classifi
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Undergrad;AI+%26+Data+Science+Intern+%40+C-DAC+Patna;Full-Stack+MERN+Developer;Building+AI-Powered+Government+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Computer+Science+Undergrad;Intern+%40+C-DAC+Patna;Full-Stack+MERN+Developer;Building+AI-Powered+Government+Tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
