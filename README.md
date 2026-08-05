@@ -47,8 +47,7 @@ I'm a final-year B.Tech Computer Science student currently interning at **C-DAC,
 <a href="https://www.youtube.com/@science_learner">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<!-- Resume ka link ready hone par neeche wali line ka comment hata dena aur YOUR_RESUME_LINK ki jagah apna link daal dena -->
- <a href="https://drive.google.com/file/d/16jI5mr-zb6BJvaqYvmIko5fNj8pnErKQ/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" /></a> 
+<a href="https://drive.google.com/file/d/16jI5mr-zb6BJvaqYvmIko5fNj8pnErKQ/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </p>
 
 ---
