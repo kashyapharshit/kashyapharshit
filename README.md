@@ -68,12 +68,12 @@ Building AI systems that solve real-world problems — from smart waste classifi
 ### 📊 GitHub & Competitive Programming Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kashyapharshit&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-taupe-five-58.vercel.app/api?username=kashyapharshit&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapharshit&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapharshit&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages"/>
+<img src="https://github-readme-stats-taupe-five-58.vercel.app/api/top-langs/?username=kashyapharshit&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages"/>
 </p>
 
 > 🧩 Active on **Codeforces** ([@Harshit_kashyap](https://codeforces.com/profile/Harshit_kashyap)) — steadily solving problems to sharpen DSA and problem-solving fundamentals alongside my AI/ML work.
