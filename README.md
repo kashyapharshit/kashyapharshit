@@ -76,7 +76,19 @@ Building AI systems that solve real-world problems — from smart waste classifi
 <img src="https://github-readme-stats-taupe-five-58.vercel.app/api/top-langs/?username=kashyapharshit&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages"/>
 </p>
 
-> 🧩 Active on **Codeforces** ([@Harshit_kashyap](https://codeforces.com/profile/Harshit_kashyap)) — steadily solving problems to sharpen DSA and problem-solving fundamentals alongside my AI/ML work.
+### 🧩 Codeforces Stats
+
+<p align="center">
+<a href="https://codeforces.com/profile/Harshit_kashyap">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Harshit_kashyap" alt="Codeforces Stats" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://codeforces.com/profile/Harshit_kashyap">
+<img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Harshit_kashyap" alt="Codeforces Rating Badge" />
+</a>
+</p>
 
 ---
 
