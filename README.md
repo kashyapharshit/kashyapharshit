@@ -18,6 +18,17 @@ Building AI systems that solve real-world problems — from smart waste classifi
 
 ---
 
+### About Me
+
+I'm a final-year B.Tech Computer Science student currently interning at **C-DAC, Patna**, where I build AI-powered systems for real-world and government use cases. My work spans **full-stack development (MERN)** and **applied AI/ML** — from OCR-driven document automation to computer vision and NLP-based classification systems. I enjoy turning research ideas into working products, and I'm actively growing as a competitive programmer alongside my project work.
+
+- 🔭 Currently building **Prabodh**, an AI-enabled complaint processing system, at C-DAC Patna
+- 🌱 Deepening my skills in applied Deep Learning, NLP, and system design
+- 🎯 Looking for opportunities in **AI/ML Engineering** and **Full-Stack Development**
+- 💬 Ask me about MERN stack, PyTorch/TensorFlow pipelines, or competitive programming
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -36,32 +47,37 @@ Building AI systems that solve real-world problems — from smart waste classifi
 <a href="https://www.youtube.com/@science_learner">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+<!-- Resume ka link ready hone par neeche wali line ka comment hata dena aur YOUR_RESUME_LINK ki jagah apna link daal dena -->
+ <a href="https://drive.google.com/file/d/16jI5mr-zb6BJvaqYvmIko5fNj8pnErKQ/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" /></a> 
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><b>C++</b></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/><b>Python</b></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/><b>JavaScript</b></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><b>React.js</b></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><b>Node.js</b></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/><b>Express</b></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><b>MongoDB</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/><b>TensorFlow</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/><b>PyTorch</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="48"/><br/><b>Scikit-learn</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><b>HTML/CSS</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><b>Git</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><b>Linux</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><b>VS Code</b></td>
-</tr>
-</table>
+**Languages**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+</p>
+
+**AI / Machine Learning**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+**Web Development**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+**Tools & Platforms**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,vercel" />
+</p>
 
 ---
 
@@ -88,6 +104,12 @@ Building AI systems that solve real-world problems — from smart waste classifi
 <a href="https://codeforces.com/profile/Harshit_kashyap">
 <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Harshit_kashyap" alt="Codeforces Rating Badge" />
 </a>
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashyapharshit&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
 </p>
 
 ---
