@@ -1,21 +1,25 @@
-<h1 align="center">Hi there, I'm Harshit Kashyap </h1>
+<h1 align="center">Hi there 👋, I'm Harshit Kashyap</h1>
 
 <h3 align="center">
- B.Tech CS Undergraduate &nbsp;|&nbsp; Intern @ C-DAC, Patna
+  B.Tech CS Undergraduate &nbsp;|&nbsp; Intern @ C-DAC, Patna
 </h3>
 
 <p align="center">
-Building AI systems that solve real-world problems — from smart waste classification to intelligent complaint automation.
+  Building AI systems that solve real-world problems — from smart waste classification to intelligent complaint automation.
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=1900&lines=Computer+Science+Undergrad;Intern+%40+C-DAC+Patna;Full-Stack+MERN+Developer;Building+AI-Powered+Government+Tech" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Computer+Science+Undergrad;Intern+%40+C-DAC+Patna;Full-Stack+MERN+Developer;Building+AI-Powered+Government+Tech" alt="Typing SVG" />
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kashyapharshit&label=Profile%20Views&color=00C4FF&style=flat" alt="Profile views" />
-</p>
+---
 
+<div align="center">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=kashyapharshit&style=for-the-badge&color=00C4FF)
+  ![GitHub followers](https://img.shields.io/github/followers/kashyapharshit?style=for-the-badge&color=00C4FF)
+
+</div>
 ---
 
 ### About Me
