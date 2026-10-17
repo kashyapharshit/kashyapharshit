@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Harshit Kashyap</h1>
+<h1 align="left">Hi I'm Harshit </h1>
 
 <h3 align="center">
   B.Tech CS Undergraduate &nbsp;|&nbsp; Intern @ C-DAC, Patna
