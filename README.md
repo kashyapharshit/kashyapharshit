@@ -1,11 +1,11 @@
 <h1 align="left">Hi I'm Harshit </h1>
 
 <h3 align="center">
-  B.Tech CS Undergraduate &nbsp;|&nbsp; Intern @ C-DAC, Patna
+  B.Tech CS Undergraduate &nbsp;|&nbsp; Intern @ SBPDCL-PATNA
 </h3>
 
 <p align="center">
-  Building AI systems that solve real-world problems — from smart waste classification to intelligent complaint automation.
+  Building AI systems that solve real-world problems.
 </p>
 
 <div align="center">
